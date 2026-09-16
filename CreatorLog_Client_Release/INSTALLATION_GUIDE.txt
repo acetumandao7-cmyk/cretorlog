@@ -1,0 +1,15 @@
+CREATORLOG
+Mobile Application for Photography and Video Project Management
+
+INSTALLATION GUIDE
+
+1. Transfer CreatorLog.apk to the Android phone.
+2. Open CreatorLog.apk.
+3. If Android asks for permission to install from this source, allow it.
+4. Install the application.
+5. Open CreatorLog.
+6. Log in using the provided account or create a new account.
+
+NOTE:
+CreatorLog connects to its production backend through the internet.
+No Node.js installation or local server is required on the client device.
